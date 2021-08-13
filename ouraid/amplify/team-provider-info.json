@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ouraid-dev-235849-authRole",
+      "UnauthRoleArn": "arn:aws:iam::133567095445:role/amplify-ouraid-dev-235849-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::133567095445:role/amplify-ouraid-dev-235849-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ouraid-dev-235849-deployment",
+      "UnauthRoleName": "amplify-ouraid-dev-235849-unauthRole",
+      "StackName": "amplify-ouraid-dev-235849",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:133567095445:stack/amplify-ouraid-dev-235849/f98e87b0-fc46-11eb-98f1-0e1740f2d965",
+      "AmplifyAppId": "dfwcm44p7f97w"
+    },
+    "categories": {
+      "auth": {
+        "ouraidc87db3a3": {}
+      }
+    }
+  }
+}
